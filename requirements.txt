@@ -1,0 +1,5 @@
+streamlit
+embedchain[youtube]
+openai
+youtube-transcript-api
+pytube
